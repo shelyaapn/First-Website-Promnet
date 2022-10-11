@@ -8,5 +8,5 @@ function getSolution(array1, array2) {
   });
 }
 function getResults(params) {
-  alert("Destination : " + destinationTogether);
+  alert("Destination Tari dan Sastri: " + destinationTogether);
 }
